@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/5606d8aa-1a38-432a-8a92-76e5c934e751
 # 🔐 Secure Chat App
 
 📌 **Overview**This project is a GUI-based Secure Chat Application built using Python and CustomTkinter. It enables users to communicate securely over a network using RSA encryption. The app features a modern user interface, an emoji picker for enhanced messaging, and robust encryption to ensure the privacy of conversations.
